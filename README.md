@@ -202,7 +202,6 @@ A couple of hints:
   figuring out how to modify one individual element in the `tutorials` array.
   Once you've got that working, then figure out how to update the array itself.
 * Use Google!!
-
 ## Conclusion
 
 `map()` takes 2 arguments — a callback and the optional context. The callback is
@@ -214,3 +213,4 @@ expressive.
 ## Resources
 
 * [MDN: Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+\
